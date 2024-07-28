@@ -2,11 +2,11 @@
 Projeto final da fase 2 em Data Analytics com uso de Séries Temporais.
 <br>
 <br>
-Um time de investimentos foi escalado para realizar um modelo <i>preditivo</i> com os dados da ###IBOVESPA para criar uma Série Temporal e prever diariamente o fechamento da base.
+<h2> Um time de investimentos foi escalado para realizar um modelo <i>preditivo</i> com os dados da ***IBOVESPA*** para criar uma Série Temporal e prever diariamente o fechamento da base.
 
 <br>
 <br>
-###Esse time responsável pelo projeto foi os seguintes integrantes:<br><br>
+# Esse time responsável pelo projeto foi os seguintes integrantes:<br><br>
  **Lucas Alexander dos Santos**<br>
  **Jhonny Amorim Silva**<br>
  **Gustavo Duran Domingues**<br>
