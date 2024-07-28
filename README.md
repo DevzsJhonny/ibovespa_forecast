@@ -6,7 +6,7 @@ Um time de investimentos foi escalado para realizar um modelo <i>preditivo</i> c
 
 <br>
 <br>
-### Esse time responsável pelo projeto foi os seguintes integrantes:<br><br>
+###Esse time responsável pelo projeto foi os seguintes integrantes:<br><br>
  **Lucas Alexander dos Santos**<br>
  **Jhonny Amorim Silva**<br>
  **Gustavo Duran Domingues**<br>
