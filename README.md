@@ -2,7 +2,7 @@
 Projeto final da fase 2 em Data Analytics com uso de Séries Temporais.
 <br>
 <br>
-<h3> Um time de investimentos foi escalado para realizar um modelo <i>preditivo</i> com os dados da ***IBOVESPA*** para criar uma Série Temporal e prever diariamente o fechamento da base.
+<h3> Um time de investimentos foi escalado para realizar um modelo <i>preditivo</i> com os dados da IBOVESPA para criar uma Série Temporal e prever diariamente o fechamento da base.
 </h3>
 <br>
 <br>
